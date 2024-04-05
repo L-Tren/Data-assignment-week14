@@ -21,4 +21,6 @@ Git Bootcamp Content. (2023). UADEL-VIRT-DATA-PT-12-2023-U-LOLC: 14-Interactive-
 
 Git Bootcamp Content. (2023). UADEL-VIRT-DATA-PT-12-2023-U-LOLC: 14-Interactive-Visualisations/3/Activities/09-Ins_Dropdown_Events/Solved/plots.js. University of Adelaide. Retrieved from https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/blob/main/14-Interactive-Visualisations/3/Activities/09-Ins_Dropdown_Events/Solved/plots.js?ref_type=heads
 
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+
 OpenAI. (2024). ChatGPT [Computer software]. Retrieved from (https://chat.openai.com/)
